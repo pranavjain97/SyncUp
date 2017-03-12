@@ -1,0 +1,16 @@
+.full {
+    background: url('./themes/mainBack.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    background-color: transparent;
+}
+
+.trans{
+    background-color: transparent;
+}
+
+ui-menu-item{
+  color:black;
+}
